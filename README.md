@@ -12,3 +12,15 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 - Automatically synchronize new accepted submissions from LeetCode to GitHub
 
 > New accepted submissions are added automatically.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
