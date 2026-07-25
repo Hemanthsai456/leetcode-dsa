@@ -19,6 +19,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
@@ -36,4 +37,12 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
