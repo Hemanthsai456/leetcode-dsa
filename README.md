@@ -20,11 +20,13 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,6 +38,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
