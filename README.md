@@ -23,6 +23,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
@@ -31,6 +32,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0011-container-with-most-water](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0283-move-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
