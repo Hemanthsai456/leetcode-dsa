@@ -42,6 +42,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -66,8 +67,13 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
