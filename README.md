@@ -51,6 +51,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,8 +79,17 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
