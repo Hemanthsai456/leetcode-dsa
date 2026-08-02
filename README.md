@@ -27,6 +27,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0283-move-zeroes](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -64,6 +66,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,4 +100,8 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | ------- |
 | [0169-majority-element](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
