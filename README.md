@@ -25,6 +25,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0169-majority-element](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
@@ -43,6 +44,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -66,6 +68,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
@@ -103,5 +106,10 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
