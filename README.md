@@ -45,6 +45,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
@@ -89,6 +90,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
