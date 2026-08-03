@@ -22,6 +22,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
