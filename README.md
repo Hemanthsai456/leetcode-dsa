@@ -116,4 +116,12 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
