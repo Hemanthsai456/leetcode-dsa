@@ -53,6 +53,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | ------- |
 | [0066-plus-one](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
@@ -133,6 +134,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
@@ -158,4 +160,8 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0229-majority-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
