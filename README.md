@@ -35,6 +35,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
