@@ -32,6 +32,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0877-stone-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -63,6 +64,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0169-majority-element](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -109,6 +111,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | ------- |
 | [0169-majority-element](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -141,4 +144,8 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0074-search-a-2d-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
