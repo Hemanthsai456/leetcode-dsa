@@ -105,6 +105,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Number Theory
@@ -117,6 +118,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0169-majority-element](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -125,6 +127,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | ------- |
 | [0169-majority-element](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -164,4 +167,8 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0342-power-of-four) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
