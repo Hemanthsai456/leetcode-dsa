@@ -45,6 +45,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0075-sort-colors](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -107,6 +108,7 @@ This repository contains my accepted LeetCode solutions in C++ and Python.
 | [0171-excel-sheet-column-number](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Hemanthsai456/leetcode-dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
